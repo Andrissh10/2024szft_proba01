@@ -1,8 +1,17 @@
 body {
-    background-color: aquamarine;
+    background-color: grey;
     text-align: center;
     font-size: 16px;
     font-family: Georgia;
+}
+h1 {
+    background-color: red;
+    border: solid 3px black;
+}
+h2 {
+    background-color: white;
+    border: solid 3px black;
+    
 }
 
 div {
@@ -13,4 +22,8 @@ div {
     border-radius: 10px;
     box-shadow: 1px 1px 3px black;
 
+}
+
+#kocsi {
+    background-color: grey;
 }
